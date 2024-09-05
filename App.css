@@ -1,0 +1,16 @@
+.todo-contianer h1{
+  font-weight: 900;
+  margin: 10px;
+  font-size: 50px;
+}
+
+.item-container button{
+ margin:5px;
+}
+.item-container{
+  text-align:center;
+  align-items: center;
+}
+.kg-button{
+  min-width:80px;
+}
